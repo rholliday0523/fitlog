@@ -1,0 +1,17 @@
+{
+  "name": "FitLog",
+  "short_name": "FitLog",
+  "description": "Your personal fitness tracker",
+  "start_url": "/fitlog/fitlog.html",
+  "display": "standalone",
+  "background_color": "#07070E",
+  "theme_color": "#A855F7",
+  "icons": [
+    {
+      "src": "wife-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
